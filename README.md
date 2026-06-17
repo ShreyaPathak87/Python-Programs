@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Python Programming 
+#  Python Programming 
 
 ### A Collection of Python Programs for Learning, Practice, and Problem Solving
 
